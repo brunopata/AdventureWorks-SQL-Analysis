@@ -1,0 +1,11 @@
+territory_key,region,country,continent
+8,Germany,Germany,Europe
+10,United Kingdom,United Kingdom,Europe
+7,France,France,Europe
+6,Canada,Canada,North America
+2,Northeast,United States,North America
+1,Northwest,United States,North America
+3,Central,United States,North America
+4,Southwest,United States,North America
+5,Southeast,United States,North America
+9,Australia,Australia,Pacific
