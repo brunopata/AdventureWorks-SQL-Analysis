@@ -9,7 +9,7 @@ This project explores the AdventureWorks dataset to uncover high-value products,
 Sales performance analysis using SQL and Google BigQuery.
 Built as a business-oriented case study to answer key questions on sales, product demand, customer frequency and market opportunities.
 
-🔍 **Main Focus Areas **:
+🔍 **Main Focus Areas**:
 - Total sales and revenue performance over time
 - Best-performing products and categories
 - Regional and customer-level sales patterns
