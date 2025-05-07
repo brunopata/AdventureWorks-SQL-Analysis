@@ -75,5 +75,5 @@ Contact with me on:
 Reach out to collaborate!
 
 ##### ✅ _**Related Projects**_
-> 📎 [HR Employee Attrition Analysis](https://github.com/brunopata/HR-Attrition-Analysis-PowerBI/tree/main) - Discover attrition drivers and satisfaction trends in HR data.
+> 📎 [HR Employee Attrition Analysis](https://github.com/brunopata/HR-Attrition-Analysis-PowerBI/tree/main) - Discover attrition drivers and satisfaction trends in HR data.  
 > 📎 [Superstore Sales Analysis](https://github.com/brunopata/Superstore-Sales-Analysis/tree/main) - Analyze sales performance, customer behavior and shipping efficiency.
