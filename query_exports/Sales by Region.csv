@@ -1,0 +1,11 @@
+country,region,order_count,sales_quantity,total_sales_cost,total_sales,total_revenue
+Australia,Australia,12409,17951,4339427.84,7416455.01,3077034.14
+United States,Southwest,11463,17191,2782445.72,4822794.68,2040353.43
+United States,Northwest,8267,12513,1780320.02,3095074.3,1314757.9
+United Kingdom,United Kingdom,6423,9694,1687784.42,2902561.58,1214780.57
+Germany,Germany,5289,7950,1470491.34,2524679.6,1054191.01
+France,France,5239,7862,1373294.44,2362642.77,989351.08
+Canada,Canada,6875,10894,1011398.43,1769245.47,757849.77
+United States,Southeast,34,49,6452.31,11585.63,5133.29
+United States,Northeast,27,40,3526.99,6401.56,2874.61
+United States,Central,20,30,1705.62,3143.06,1437.46
