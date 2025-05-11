@@ -15,3 +15,4 @@ SELECT
 FROM `AdventureWorks.sales` s
 JOIN `AdventureWorks.products` p
     ON s.product_key = p.product_key
+ORDER BY order_date
